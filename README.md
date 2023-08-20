@@ -24,9 +24,9 @@
 </div>
 
 ##
-<div style="display: inline_block"><br>
-    <details>
+<details>
     <sumary>:zap: Github Stats</sumary>
+       <div style="display: inline_block"><br>
 <img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme=dracula" /></a>
     <img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&layout=compact&langs_count=8&card_width=320&theme=dracula" /></a>
 </div>
