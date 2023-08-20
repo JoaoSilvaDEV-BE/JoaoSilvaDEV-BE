@@ -25,9 +25,8 @@
 
 ##
 <div style="display: inline_block"><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="JoaoPauloAJ" height=200 width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme=dracula" /></a>
-    <a href="https://github.com/anuraghazra/convoychat"><img align="center" alt="JoaoPauloAJ" height=180 width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&layout=compact&langs_count=8&card_width=320&theme=dracula" /></a>
-</div>
-<details>
+    <details>
     <sumary>:zap: Github Stats</sumary>
-<img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats-git-master-joaoborgesaj.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&hide_border=true&theme=dracula" />
+<img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme=dracula" /></a>
+    <img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&layout=compact&langs_count=8&card_width=320&theme=dracula" /></a>
+</div>
