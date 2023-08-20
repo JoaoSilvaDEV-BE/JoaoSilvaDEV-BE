@@ -1,15 +1,20 @@
 ## Olá, meu nome é João Paulo, e isso e um pouco sobre mim!
 
 
--   👨‍💻 Assistente de Suporte - TI
-- 📚 Estudante de Desenvolvimento Back-End (Python)
+- 👨‍💻 **Assistente de Suporte - TI**
+- 📚 **Estudante de Desenvolvimento Back-End** [Graduação]
+- 💻 **Estudante na Digital Innovation One** [Cursos]
 
 ##
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img align="center" alt="joao-GIT" width='50' height='50' scr=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="joao-GitHub" width='50' height='50' scr=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />                  
+    <img align="center" alt="joao-MySQL" width='50' height='50' scr=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="joao-JAVA" width='50' height='50' scr=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />    
+          
 </div>
-  
 
 ##
 
@@ -23,5 +28,12 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme=dracula)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="JoaoPauloAJ" height=200 width="420" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" alt="JoaoPauloAJ" height=200 width="480" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="JoaoPauloAJ" height=200 width="480" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=github-readme-stats&theme=dracula" />
+</a>
