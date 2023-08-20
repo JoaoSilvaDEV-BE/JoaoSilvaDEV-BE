@@ -29,10 +29,10 @@
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="JoaoPauloAJ" height=200 width="420" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme=dracula" />
+  <img align="center" alt="JoaoPauloAJ" height=200 width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" alt="JoaoPauloAJ" height=200 width="480" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img align="center" alt="JoaoPauloAJ" height=200 width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="JoaoPauloAJ" height=200 width="480" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=github-readme-stats&theme=dracula" />
