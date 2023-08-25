@@ -35,4 +35,6 @@
 </div>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=dracula)](https://github.com/JoaoBorgesAJ/FlappyBird)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=JoaoBorgesAJ&bg_color=000&border_color=30A3DC&show_icons=true&theme=dracula)](https://github.com/JoaoBorgesAJ/JoaoBorgesAJ)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Faculdade-Linguagem-de-Programacao-Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=dracula)]([https://github.com/JoaoBorgesAJ/JoaoBorgesAJ](https://github.com/JoaoBorgesAJ/Faculdade-Linguagem-de-Programacao-Projeto-IMC.git)https://github.com/JoaoBorgesAJ/Faculdade-Linguagem-de-Programacao-Projeto-IMC.git)
+
+
