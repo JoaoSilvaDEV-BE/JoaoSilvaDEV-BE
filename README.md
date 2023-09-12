@@ -16,12 +16,11 @@
           
 </div>
 
-
-
 ##
+
 <div><h3>Onde me encontrar</h3>
     <a href="https://instagram.com/aj.informatica01?igshid=NTA5ZTk1NTc=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239990?style=for-the-badge&logo=instagram&logoColor=pink-purple" target="_blank"></a>
-  <a href = "mailto:ajinformatica01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%239990?style=for-the-badge&logo=gmail&logoColor=redblack" target="_blank"></a>
+  <img src="https://img.shields.io/badge/-Gmail-%239990?style=for-the-badge&logo=gmail&logoColor=redblack" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-borges-b0614b191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%239990?style=for-the-badge&logo=linkedin&logoColor=blue" 
   target="_blank"></a> 
 </div> 
@@ -35,9 +34,10 @@
 
 ## 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+<div style="display: inline_block"><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
 </a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
 </a>
 
 <br />
