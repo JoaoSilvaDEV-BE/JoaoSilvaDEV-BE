@@ -8,7 +8,7 @@
 ##
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="joao-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="joao-GIT" width='50' height='50' scr=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="joao-GitHub" width='50' height='50' scr=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />                  
     <img align="center" alt="joao-MySQL" width='50' height='50' scr=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
@@ -28,20 +28,21 @@
 ##
 <details>
     <sumary>:zap: Github Stats</sumary>
-    <div style="display: inline_block"><br>
-    <img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" /></a>
-    <img align="center" height="195px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" /></a>
+    <div style="display: inline_block">
+    <img align="center" height="200px" width="480px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+    </a>
+    <img align="center" height="200px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+    </a>
+    <br>
 
 ## 
 
 <a href="https://github.com/JoaoBorgesAJ/FlappyBird">
-<img align="center" height="130px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+<img align="center" height="200px" width="480px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/JoaoBorgesAJ/Projeto-IMC">
-<img align="center" height="130px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+<img align="center" height="200px" width="420px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
 </a>
-<br />
-<br />
 
 
 
