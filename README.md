@@ -32,9 +32,8 @@
     <div style="display: inline_block"><br>
     <img align="center" width="49%" height="195px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme=dracula" /></a>
     <img align="center" width="49%" height="195px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&layout=compact&langs_count=8&card_width=320&theme=dracula" /></a>
-</div>
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=dracula)](https://github.com/JoaoBorgesAJ/FlappyBird)
+    
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=dracula)]([https://github.com/JoaoBorgesAJ/JoaoBorgesAJ](https://github.com/JoaoBorgesAJ/FlappyBird.git)https://github.com/JoaoBorgesAJ/FlappyBird.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=dracula)]([https://github.com/JoaoBorgesAJ/JoaoBorgesAJ](https://github.com/JoaoBorgesAJ/Projeto-IMC.git)https://github.com/JoaoBorgesAJ/Projeto-IMC.git)
 
 
