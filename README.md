@@ -29,19 +29,20 @@
 <details>
     <sumary>:zap: Github Stats</sumary>
     <div style="display: inline_block">
-    <img align="center" height="200px" width="380px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+    <img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
     </a>
-    <img align="center" height="200px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+    <img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
     </a>
     <br>
 
 ## 
 
+<div style="display: inline_block">
 <a href="https://github.com/JoaoBorgesAJ/FlappyBird">
-<img align="center" height="200px" width="380px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+<img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/JoaoBorgesAJ/Projeto-IMC">
-<img align="center" height="200px" width="320px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+<img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
 </a>
 
 
