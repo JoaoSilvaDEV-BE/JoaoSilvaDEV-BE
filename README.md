@@ -30,8 +30,8 @@
 <details>
     <sumary>:zap: Github Stats</sumary>
     <div style="display: inline_block"><br>
-    <img align="center" width="49%" height="195px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme" /></a>
-    <img align="center" width="49%" height="195px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&&show_icons=true&theme" /></a>
+    <img align="center" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api?username=JoaoBorgesAJ&show_icons=true&theme=radical" /></a>
+    <img align="center" height="195px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBorgesAJ&show_icons=true&theme=radical" /></a>
     
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme)]([https://github.com/JoaoBorgesAJ/JoaoBorgesAJ](https://github.com/JoaoBorgesAJ/FlappyBird.git)https://github.com/JoaoBorgesAJ/FlappyBird.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme)]([https://github.com/JoaoBorgesAJ/JoaoBorgesAJ](https://github.com/JoaoBorgesAJ/Projeto-IMC.git)https://github.com/JoaoBorgesAJ/Projeto-IMC.git)
