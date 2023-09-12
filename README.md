@@ -34,12 +34,12 @@
 
 ## 
 
-<div style="display: inline_block"><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+<a href="https://github.com/JoaoBorgesAJ/FlappyBird">
+<img align="center" height="130px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=FlappyBird&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
 </a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
+<a href="https://github.com/JoaoBorgesAJ/Projeto-IMC">
+<img align="center" height="130px" alt="JoaoPauloAJ" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoBorgesAJ&repo=Projeto-IMC&bg_color=000&border_color=30A3DC&show_icons=true&theme=radical" />
 </a>
-
 <br />
 <br />
 
