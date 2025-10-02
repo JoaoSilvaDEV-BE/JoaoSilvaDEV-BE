@@ -5,7 +5,7 @@
 - 🤔 Aprendendo novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Graduado em **Desenvolvimento Back-End** pela **UNOPAR** (2023 - 2024).
 - 🎓 Pós-graduado em **Computação Forense e Perícia Digital** pela **Anhanguera Educacional** (2024 - concluído).
-- 💼 Atuando como **Assistente de Suporte de TI** na [AGIR Saúde](https://www.agirsaude.org.br/), com experiência desde 2022.
+- 💼 Atuando como **Analista de TI** na [AGIR Saúde](https://www.agirsaude.org.br/), com experiência desde 2022.
 - 👨‍🏫 Co-fundador da **AJ-INFORMÁTICA** (2019 - 2023), com vivência em suporte técnico e atendimento.
 - 🌱 Atualmente cursando:
   - **Bacharelado em Ciência da Computação** – UNIALFA (2024 - 2029)
