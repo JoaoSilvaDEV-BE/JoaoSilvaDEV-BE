@@ -30,12 +30,12 @@ Sou um **Senior Tech Lead e Especialista em Computação Forense**, focado em En
 
 > *Nota: Devido a NDAs e políticas de compliance em sistemas de saúde (Mission-Critical), parte do meu código corporativo é privado. Abaixo, compartilho provas de conceito (PoCs) de arquitetura e análise de dados.*
 
-<div style="display: inline_block">
-  <a href="https://github.com/JoaoSilvaDEV-BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSilvaDEV-BE&repo=JoaoSilvaDEV-BE&bg_color=000000&border_color=30A3DC&show_icons=true&title_color=30A3DC&text_color=FFF&theme=radical" />
+<div align="center">
+  <a href="https://github.com/JoaoSilvaDEV-BE/JoaoSilvaDEV-BE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSilvaDEV-BE&repo=JoaoSilvaDEV-BE&bg_color=000000&border_color=30A3DC&show_icons=true&title_color=30A3DC&text_color=FFF" alt="Repo Perfil" />
   </a>
-  <a href="https://github.com/JoaoSilvaDEV-BE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSilvaDEV-BE&repo=JoaoSilvaDEV-BE&bg_color=000000&border_color=30A3DC&show_icons=true&title_color=30A3DC&text_color=FFF&theme=radical" />
+  <a href="https://github.com/JoaoSilvaDEV-BE/DesenvolvimentoBack-End">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoSilvaDEV-BE&repo=DesenvolvimentoBack-End&bg_color=000000&border_color=30A3DC&show_icons=true&title_color=30A3DC&text_color=FFF" alt="Repo Back-End" />
   </a>
 </div>
 
@@ -59,8 +59,8 @@ Sou um **Senior Tech Lead e Especialista em Computação Forense**, focado em En
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoSilvaDEV-BE&bg_color=000000&border_color=30A3DC&show_icons=true&title_color=30A3DC&text_color=FFF&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSilvaDEV-BE&layout=compact&bg_color=000000&border_color=30A3DC&title_color=30A3DC&text_color=FFF&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoSilvaDEV-BE&bg_color=000000&border_color=30A3DC&show_icons=true&title_color=30A3DC&text_color=FFF&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSilvaDEV-BE&layout=compact&bg_color=000000&border_color=30A3DC&title_color=30A3DC&text_color=FFF&cache_seconds=1800" alt="Top Langs" />
 </div>
 
 </details>
